@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "607D068D-D85B-4C97-84DE-4CED129E611B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1606E2BD-1B5B-44AB-B4BE-CB3B5FA4F392"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sound/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1606E2BD-1B5B-44AB-B4BE-CB3B5FA4F392 - 42667c70145b3bae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.touchDownDrumButton() -&gt; ()"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1606E2BD-1B5B-44AB-B4BE-CB3B5FA4F392 - 7e44cccfc2d0e3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.guitarSoundPlayer.getter : __C.AVAudioPlayer"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "1606E2BD-1B5B-44AB-B4BE-CB3B5FA4F392 - cf13e00ebe6f5f89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Sound.ViewController"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "1606E2BD-1B5B-44AB-B4BE-CB3B5FA4F392 - 4b9a4196282d273e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Sound.ViewController&gt;"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "723741F1-BF70-4C8D-A1F0-D5980799286A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sound/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "723741F1-BF70-4C8D-A1F0-D5980799286A - 7e44cccfc2d0e3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.guitarSoundPlayer.getter : __C.AVAudioPlayer"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "723741F1-BF70-4C8D-A1F0-D5980799286A - cf13e00ebe6f5f89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Sound.ViewController"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "723741F1-BF70-4C8D-A1F0-D5980799286A - 4b9a4196282d273e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Sound.ViewController&gt;"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97B6CE83-7C5D-4DDE-888D-77CE48CE3D67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sound/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "97B6CE83-7C5D-4DDE-888D-77CE48CE3D67 - d6c2bc3dc33e87d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.pianoSoundPlayer.getter : __C.AVAudioPlayer"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "97B6CE83-7C5D-4DDE-888D-77CE48CE3D67 - cf13e00ebe6f5fcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Sound.ViewController"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "97B6CE83-7C5D-4DDE-888D-77CE48CE3D67 - 4b9a4196282d277c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sound.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Sound.ViewController&gt;"
+                  moduleName = "Sound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayaka/Desktop/lifeistech/sound/Sound/Sound/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
